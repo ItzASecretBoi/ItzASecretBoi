@@ -34,7 +34,6 @@
   <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="gdscript" width="40" height="40"/>
   </a>
-</p>
 
 <a href="https://docs.unrealengine.com/5.0/en-US/blueprint-visual-scripting-in-unreal-engine/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="blueprint" width="40" height="40"/>
