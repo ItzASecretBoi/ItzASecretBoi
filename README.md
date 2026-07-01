@@ -34,9 +34,10 @@
   <a href="https://dev.epicgames.com/documentation/unreal-engine/blueprints-visual-scripting-in-unreal-engine?application_version=5.5" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint"/>
   </a>
-</p>
 
 ![GDScript](https://img.shields.io/badge/GDScript-2d2d2d?style=for-the-badge&logo=godot%20engine&logoColor=478CBF)
+
+</p>
 
 <h3 align="left">Other Tools:</h3>
 <p align="left">
