@@ -45,7 +45,9 @@
 <h1 align="left">Featured Projects:</h1>
 <p align="left">
 
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Simple FPS Template</strong></a><br/>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal engine" width="40" height="40"/>
+  </a>  <a href="https://github.com/ItzASecretBoi/Simple_FPS_Template"><strong>Simple FPS Template</strong></a><br/>
   
 <img width="714" height="714" alt="20260701-0121-08 9032374-ezgif com-speed" src="https://github.com/user-attachments/assets/0ba7a27f-48b5-4566-a4b0-21dfbc3939ff" />
 
