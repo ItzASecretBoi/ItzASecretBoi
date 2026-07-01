@@ -48,3 +48,24 @@
     <img src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000" alt="fl studio" width="40" height="40"/>
   </a>
 </p>
+
+
+<h3 align="left">Featured Projects:</h3>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
+  A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
+  <em>Tech:</em> Godot, GDScript
+</p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
+  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
+  <em>Tech:</em> Unreal Engine, Blueprint, C++
+</p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><strong>Project Title Three</strong></a><br/>
+  A short description of the project goes here. Keep it to 1–2 sentences so the section stays easy to scan.<br/>
+  <em>Tech:</em> C#, FL Studio
+</p>
