@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lyndayle "Tank" Humphery</h1>
 <h3 align="center">A passionate game developer.</h3>
 
-- 🌱 I’m currently learning **Unreal Engine & Godot Engine**
+- Currently obsessed with **Unreal Engine & Godot Engine**
 
-- 📫 How to reach me **lyndaylehumphery@gmail.com**
+- Feel free to reach out to me at **lyndaylehumphery@gmail.com**
 
-- ⚡ Fun fact **I have 4.5k hours on Rimworld at the time of writing this.**
+- Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
