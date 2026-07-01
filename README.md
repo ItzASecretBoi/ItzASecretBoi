@@ -46,6 +46,9 @@
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
+
+<img width="714" height="714" alt="20260701-0121-08 9032374-ezgif com-optimize" src="https://github.com/user-attachments/assets/9682cb02-7016-4520-a4d0-086a19cfd0ff" />
+  
   A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
   <em>Tech:</em> Godot, GDScript
 </p>
