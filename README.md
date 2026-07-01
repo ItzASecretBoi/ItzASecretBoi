@@ -104,7 +104,7 @@ Featured Projects
 
   <br/>
   
-  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
+  Lights Out was our minor production project at the Academy Of Interactive Entertainment, I had the role of lead programmer, which meant I was responsible for 4 other programmers during the development of this project! We worked in a team of about 13 people, which taught me a lot about cooperation, version control, & coopertive workflows. Leading 4 other programmers was honestly very challenging, but addmittedly, it was also kind of fun. It was a small slice of what being a lead programmer on a real project would be like, and according to peer review, I did really good! I look forward to working with small & large teams in the future, it was a ton of fun & helped me learn a lot about what it takes to make a game as a team. <br/>
 </p>
 
 <br/>
