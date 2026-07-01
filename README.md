@@ -92,7 +92,18 @@ Featured Projects
 <br/>
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
+  <a href="https://candle-team.itch.io/lights-out"><strong>Lights Out</strong></a><br/>
+
+<img width="734" height="734" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/bd32d501-f163-4d9e-9321-fea35174c942" />
+
+  <br/>
+
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  </a>
+
+  <br/>
+  
   A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
 </p>
 
