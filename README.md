@@ -93,8 +93,6 @@
   I wanted to make a hotbar inventory system similar to a little indie game you may have heard of called Minecraft. While this inventory system certainly can be improved, it taught me a lot about data organization and how to structure inventory systems.  
   I also worked on a scrolling interaction system where you can swap between multiple interactions on objects like items or doors, and trigger different behaviors based on what you select. All the assets for this project were from asset packs I purchased, mostly from "PizzaDoggy" on itch.io.
 
-  <br/>
-  <em>Tech:</em> Unreal Engine, Blueprint
 </p>
 
 <br/>
