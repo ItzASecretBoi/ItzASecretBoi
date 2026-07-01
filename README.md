@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lyndayle "Tank" Humphery</h1>
-<h3 align="center">A passionate game developer.</h3>
+<h1 align="left">Hi 👋, I'm Lyndayle "Tank" Humphery</h1>
+<h3 align="left">A passionate game developer.</h3>
 
 <h3 align="left">Engines:</h3>
 <p align="left">
@@ -40,7 +40,7 @@
 
 <hr/>
 
-<h3 align="left">Featured Projects:</h3>
+<h1 align="left">Featured Projects:</h1>
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
