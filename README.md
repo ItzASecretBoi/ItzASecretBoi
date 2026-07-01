@@ -1,16 +1,26 @@
 <h1 align="center">Hi 👋, I'm Lyndayle "Tank" Humphery</h1>
 <h3 align="center">A passionate game developer.</h3>
 
-- Currently obsessed with **Unreal Engine & Godot Engine**
+<h3 align="left">Featured Projects:</h3>
 
-- Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-- Feel free to reach out to me at **lyndaylehumphery@gmail.com**
-  
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
+  A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
+  <em>Tech:</em> Godot, GDScript
 </p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
+  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
+  <em>Tech:</em> Unreal Engine, Blueprint, C++
+</p>
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><strong>Project Title Three</strong></a><br/>
+  A short description of the project goes here. Keep it to 1–2 sentences so the section stays easy to scan.<br/>
+  <em>Tech:</em> C#, FL Studio
+</p>
+
 
 <h3 align="left">Engines:</h3>
 <p align="left">
@@ -49,23 +59,13 @@
   </a>
 </p>
 
+- Currently obsessed with **Unreal Engine & Godot Engine**
 
-<h3 align="left">Featured Projects:</h3>
+- Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1"><strong>Project Title One</strong></a><br/>
-  A short description of the project goes here. Explain what it is, what makes it interesting, and what you worked on.<br/>
-  <em>Tech:</em> Godot, GDScript
-</p>
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><strong>Project Title Two</strong></a><br/>
-  A short description of the project goes here. You can mention gameplay, systems, tools, or what you learned while making it.<br/>
-  <em>Tech:</em> Unreal Engine, Blueprint, C++
-</p>
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3"><strong>Project Title Three</strong></a><br/>
-  A short description of the project goes here. Keep it to 1–2 sentences so the section stays easy to scan.<br/>
-  <em>Tech:</em> C#, FL Studio
+- Feel free to reach out to me at **lyndaylehumphery@gmail.com**
+  
 </p>
