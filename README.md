@@ -2,8 +2,8 @@
 Header / Intro
 ========================= -->
 
-<h1 align="left">Hi, I'm ItzASecretBoi</h1>
-<h3 align="left">A passionate game developer.</h3>
+<h1 align="left">Hi, Secret here.</h1>
+<h3 align="left">- A passionate game developer.</h3>
 
 - Currently obsessed with **Unreal Engine & Godot Engine**
 - Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
