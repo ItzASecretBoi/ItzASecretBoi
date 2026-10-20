@@ -6,7 +6,7 @@ Header / Intro
 <h3 align="left">- A passionate game developer.</h3>
 
 - Currently obsessed with **Unreal Engine & Godot Engine**
-- Fun fact, **I have 4.5k hours on Rimworld at the time of writing this.**
+- Fun fact, **I have 5k hours on Rimworld at the time of writing this.**
 
 <br/>
 
